@@ -1,5 +1,163 @@
 # Aplicación financiera
 
+Preámbulo
+El banco más importante del país ha lanzado una nueva aplicación móvil al mercado para que sus usuarios puedan visualizar sus gastos mensuales y fomentar el ahorro. Luego de tener algunos meses en el mercado, el equipo detrás de este nuevo producto ha decidido contratar a una agencia/consultora de UX que los ayude a definir la dirección y evolución del producto. Tú has sido elegida como la consultora líder de UX y se te ha asignado el proyecto para hacer un diagnóstico, evaluar el desempeño de la aplicación y proponer los cambios necesarios para optimizar el producto.
+
+Tus Finanzas: “ahorrar no es sólo guardar, sino saber gastar”
+
+
+
+Objetivos del proyecto
+
+Aumentar número de usuarios registrados y que se mantengan fieles a la app Tus Finanzas.
+Rediseñar una app de ahorro, que ayude a tener una mejor salud financiera a los usuarios mientras se organizan sus finanzas.
+Diseñar prototipo para su implementación en Andriod.
+Encontrar información en la data que aporte valor al rediseño 
+Satisfacer necesidades de los usuarios y ofrecer un valor agregado
+
+
+
+El primer paso es analizar la Data disponible para encontrar areas de oportunidad.
+
+INSIGHTS:
+Visitas de los usuarios a el Landing Page:
+Las vistas en el landing page se realizan mayormente con sistema operativo Android. Por lo que el 61% de las visitas las realizan desde un dispositivo Android.
+
+Después del landing page el acercamiento de la app con los usuarios baja mucho, tan solo el 10% llega al AppStore.
+
+
+
+ AppStore:
+ En el AppStore solo el 13% instala TUS FINANZAS en su dispositivo
+Y solo el 11% ya en la app, se registra 
+
+¿Qué pasa con google adds de Facebook?
+Los google ads no cumplen su misión que es  atraer a posibles usuarios porque de las impresiones tan solo el 1% llega a visitar el Landing Page
+
+
+
+
+Nuestro cliente necesitaba:                                          
+
+Aumentar número de usuarios registrados y que se mantengan fieles a la app Tus Finanzas.
+Rediseñar una app de ahorro, que ayude a tener una mejor salud financiera a los usuarios mientras se organizan sus finanzas.
+Que atraiga nuevos usuarios 
+Que siga siendo util pasado los meses  
+
+
+           Los usuarios necesitaban:
+
+Una app fácil de entender y ayude a cuidar sus gastos
+Que sea segura con la información 
+Aprender salud financiera 
+Algo que los ayude a ahorrar 
+Datos útiles para saber qué movimientos hacer con su dinero
+
+Problemas identificados analizando la data:
+
+Después de los insights se planea realizar un análisis heurístico pues la mayoría de los usuarios están interesadas en saber lo que la app ofrece, pero después del Landing Page no llegaban a descargar.
+ En la siguiente etapa de research decido usar algunas metodologías:
+Análisis heurístico 
+Testing con usuarios, se realizó con 5 usuarios que se aproximan al user persona
+ 
+
+
+
+           
+
+
+Análisis heurístico:
+
+
+
+
+
+Gain de TUS FINANZAS:
+
+
+Pains de TUS FINANZAS:
+
+Necesidades 
+
+
+
+ Testing del prototipo con usuarios, se realizó con 5 usuarios que se aproximan al user persona
+
+
+
+
+
+
+
+
+Problemas de la data a resolver:
+
+
+
+Problemas encontrados en el Landing page:
+
+No tiene la personalidad de la marca, sin logotipos que den confianza sobre una institución
+Para llegar a la descarga en el appStore es necesario llenar un formulario de nombre y mail y se te envia al correo, pero ahí se puede perder la atención de usuario por tener más pasos extra
+No se especifica el sistema operativo en que está disponible y en el que no.
+    4. No comunica lo que hace exactamente y es confuso el landing page
+
+
+
+
+Benchmark:
+
+Para conocer lo que otras apps estan haciendo para resolver lo que necesitan los usuarios, se hace una exploración de las apps
+
+
+
+
+
+Propuesta para rediseño:
+
+
+
+
+
+
+
+Valor agregado:
+
+Posibilidad de crear tu propio avatar para proteger tu imagen
+
+
+Conforme generes puntos por tus metas  de ahorro, desbloquear items para tu avatar.
+
+
+ Autor: Daniela 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Preámbulo
 
 El banco más importante del país ha lanzado una nueva aplicación móvil al
