@@ -21,6 +21,10 @@ El primer paso es analizar la Data disponible para encontrar areas de oportunida
 
 INSIGHTS:
 Visitas de los usuarios a el Landing Page:
+
+![data](https://ibb.co/pLdFMNn)
+
+
 Las vistas en el landing page se realizan mayormente con sistema operativo Android. Por lo que el 61% de las visitas las realizan desde un dispositivo Android.
 
 Después del landing page el acercamiento de la app con los usuarios baja mucho, tan solo el 10% llega al AppStore.
