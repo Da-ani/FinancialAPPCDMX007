@@ -22,7 +22,7 @@ El primer paso es analizar la Data disponible para encontrar areas de oportunida
 INSIGHTS:
 Visitas de los usuarios a el Landing Page:
 
-![data](https://ibb.co/pLdFMNn)
+![data](./images/data.jpeg)
 
 
 Las vistas en el landing page se realizan mayormente con sistema operativo Android. Por lo que el 61% de las visitas las realizan desde un dispositivo Android.
