@@ -142,7 +142,7 @@ Valor agregado:
 
 Posibilidad de crear tu propio avatar para proteger tu imagen
 ![data17](./images/17.jpeg) 
-![data15](./images/15.jpeg) 
+
 
 Conforme generes puntos por tus metas  de ahorro, desbloquear items para tu avatar.
 ![data18](./images/18.jpeg) 
