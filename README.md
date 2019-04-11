@@ -28,7 +28,8 @@ Visitas de los usuarios a el Landing Page:
 Las vistas en el landing page se realizan mayormente con sistema operativo Android. Por lo que el 61% de las visitas las realizan desde un dispositivo Android.
 
 Después del landing page el acercamiento de la app con los usuarios baja mucho, tan solo el 10% llega al AppStore.
-
+![data1](./images/1.jpeg)
+![data2](./images/2.jpeg)
 
 
  AppStore:
@@ -37,7 +38,7 @@ Y solo el 11% ya en la app, se registra
 
 ¿Qué pasa con google adds de Facebook?
 Los google ads no cumplen su misión que es  atraer a posibles usuarios porque de las impresiones tan solo el 1% llega a visitar el Landing Page
-
+![data](./images/3.jpeg)
 
 
 
@@ -72,31 +73,44 @@ Testing con usuarios, se realizó con 5 usuarios que se aproximan al user person
 
 Análisis heurístico:
 
-
+![data4](./images/4.jpeg) 
+![data5](./images/5.jpeg)
+![data6](./images/6.jpeg)
+![data7](./images/7.jpeg)
 
 
 
 Gain de TUS FINANZAS:
-
+![data8](./images/8.jpeg) 
 
 Pains de TUS FINANZAS:
+![data9](./images/9.jpeg)
 
 Necesidades 
+![data10](./images/10.jpeg) 
+
+
+ Se realizo un testing y una entrevista con 5 usuarios, los que nos ayudaron a crear a nuestro user persona 
+
+![data11](./images/11.jpeg) 
+![data12](./images/12.jpeg)
+
+![data20](./images/20.jpeg)
+
+![data21](./images/21.jpeg)
 
 
 
- Testing del prototipo con usuarios, se realizó con 5 usuarios que se aproximan al user persona
+AUDIOS
 
-
-
-
+https://drive.google.com/drive/folders/1ikCRQz5KLDflXs4T8rSXM1bO-xReP0lC?ths=true
 
 
 
 
 Problemas de la data a resolver:
 
-
+![data14](./images/14.jpeg)
 
 Problemas encontrados en el Landing page:
 
@@ -112,13 +126,13 @@ Benchmark:
 
 Para conocer lo que otras apps estan haciendo para resolver lo que necesitan los usuarios, se hace una exploración de las apps
 
-
+![data15](./images/15.jpeg)
 
 
 
 Propuesta para rediseño:
 
-
+![data16](./images/16.jpeg) 
 
 
 
@@ -127,10 +141,11 @@ Propuesta para rediseño:
 Valor agregado:
 
 Posibilidad de crear tu propio avatar para proteger tu imagen
-
+![data17](./images/17.jpeg) 
+![data15](./images/15.jpeg) 
 
 Conforme generes puntos por tus metas  de ahorro, desbloquear items para tu avatar.
-
+![data18](./images/18.jpeg) 
 
  Autor: Daniela 
 
